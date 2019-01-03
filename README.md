@@ -1,4 +1,4 @@
 # python-webscraper
-Simple web scraper to fetch Bitcoin's latest price.
+Testing out webscraping tools.
 
 Used this tutorial to get started https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe . Thanks!
